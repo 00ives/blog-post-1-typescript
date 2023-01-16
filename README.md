@@ -1,29 +1,17 @@
-<!--
- to create a link to another site use [Placeholder](https://site.com)
--->
-# TypeScript
-
-JANUARY 15, 2023
-
-[IVOR LEWIS](https://possible-decimal-f6e.notion.site/TypeScript-9a78590829a74b38bdf9e7c45167c483)
-
 <img align="center" alt="GIF" src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="200px"/>
 
+# TypeScript Blog
+
+Started: JANUARY 15, 2023
+
+## [Visit Blog Here](https://possible-decimal-f6e.notion.site/TypeScript-9a78590829a74b38bdf9e7c45167c483)
+
+
+<!--
 # TypeScript
 
 ## Introduction
-<!--_Create a site or blog from your GitHub repositories with GitHub Pages._ -->
 
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-<!-- to create a link to another site use [Placeholder](https://site.com)-->
 
 Statically-typed we know the type of variables at compile time
 <br>
@@ -49,3 +37,4 @@ Contains:
 
 # References 
 [^youtubevid1]: https://www.youtube.com/watch?v=d56mG7DezGs
+-->
