@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="200px"/>
+<img align="center" alt="GIF" src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="200px"/>[^1].
 
 # TypeScript Blog
 
@@ -38,3 +38,5 @@ Contains:
 # References 
 [^youtubevid1]: https://www.youtube.com/watch?v=d56mG7DezGs
 -->
+
+[^1]: https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 
